@@ -27,8 +27,8 @@ FinTrack is a cross-platform personal finance tracker app built using **Flutter*
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/keya-sonaiya/FinTrack.git
+cd FinTrack
 ```
 
 2. **Install Dependencies**
